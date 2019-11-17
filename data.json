@@ -1,0 +1,35 @@
+{
+  "clientes": [
+    {
+      "nome": "ANTON",
+      "apelidos": "PIRULERO",
+      "email": "anton@es.es"
+    }
+  ],
+  "tendas": [
+    {
+      "nome": "tenda",
+      "cidade": "santiago",
+      "productos": [
+        {
+          "identificador": 3,
+          "descripcion": "esto e o producto",
+          "prezo": 30.0,
+          "cantidade": 4
+        }
+      ],
+      "empregados": []
+    },
+    {
+      "nome": "nome",
+      "cidade": "nome",
+      "productos": [],
+      "empregados": [
+        {
+          "nome": "PEPE",
+          "apelidos": "UN E OUTRO"
+        }
+      ]
+    }
+  ]
+}
